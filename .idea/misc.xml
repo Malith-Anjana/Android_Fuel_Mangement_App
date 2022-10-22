@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SLIIT/4th YEAR/2nd SEMESTER/(2) Enterprise Application Development - SE4040/(00) Assignments/FuelApp_RestAPI_Android/app/src/main/res/drawable/button.xml" value="0.143" />
+        <entry key="..\:/SLIIT/4th YEAR/2nd SEMESTER/(2) Enterprise Application Development - SE4040/(00) Assignments/FuelApp_RestAPI_Android/app/src/main/res/drawable/rounded_background.xml" value="0.143" />
+        <entry key="..\:/SLIIT/4th YEAR/2nd SEMESTER/(2) Enterprise Application Development - SE4040/(00) Assignments/FuelApp_RestAPI_Android/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/SLIIT/4th YEAR/2nd SEMESTER/(2) Enterprise Application Development - SE4040/(00) Assignments/FuelApp_RestAPI_Android/app/src/main/res/layout/activity_modcat.xml" value="0.209375" />
+        <entry key="..\:/SLIIT/4th YEAR/2nd SEMESTER/(2) Enterprise Application Development - SE4040/(00) Assignments/FuelApp_RestAPI_Android/app/src/main/res/layout/category_list.xml" value="0.22" />
+        <entry key="..\:/SLIIT/4th YEAR/2nd SEMESTER/(2) Enterprise Application Development - SE4040/(00) Assignments/FuelApp_RestAPI_Android/app/src/main/res/layout/delete_cat.xml" value="0.209375" />
+        <entry key="..\:/SLIIT/4th Year (2022)/2nd Sem/EAD/Assignment1/Android_CRUD_REST_API/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="..\:/SLIIT/4th Year (2022)/2nd Sem/EAD/Assignment1/Android_CRUD_REST_API/app/src/main/res/drawable/ic_baseline_update_24.xml" value="0.1" />
+        <entry key="..\:/SLIIT/4th Year (2022)/2nd Sem/EAD/Assignment1/Android_CRUD_REST_API/app/src/main/res/layout/activity_modcat.xml" value="0.1342451874366768" />
+        <entry key="..\:/SLIIT/4th Year (2022)/2nd Sem/EAD/Assignment1/Android_CRUD_REST_API/app/src/main/res/layout/category_list.xml" value="0.1" />
+        <entry key="..\:/SLIIT/4th Year (2022)/2nd Sem/EAD/Assignment1/Android_CRUD_REST_API/app/src/main/res/layout/delete_cat.xml" value="0.1342451874366768" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
